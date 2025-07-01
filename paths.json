@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/pinterest-dijish/:/",
+    "/content/pinterest-dijish/configuration:/.helix/config.json",
+    "/content/pinterest-dijish/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/pinterest-dijish/"
   ]
 }
